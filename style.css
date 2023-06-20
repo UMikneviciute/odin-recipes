@@ -1,0 +1,23 @@
+body {
+    font-family: 'Franklin Gothic Medium', sans-serif;
+}
+
+h1 {
+    color: #ffb9c5;
+}
+
+ul {
+    background-color: #ffdae0;
+}
+
+li, a {
+    color: #a34545;
+}
+
+h4 {
+    color: #83061b;
+}
+
+p {
+    color: #fd002a;
+}
